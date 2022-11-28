@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="codewars.BinaryAdditionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-28T11:26:14" hostname="DESKTOP-0CH3U27" time="0.031">
+  <properties/>
+  <testcase name="testBinaryValueOfTwoIntSum()" classname="codewars.BinaryAdditionTest" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
