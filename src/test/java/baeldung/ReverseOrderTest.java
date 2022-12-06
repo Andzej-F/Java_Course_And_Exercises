@@ -12,5 +12,4 @@ class ReverseOrderTest {
     // A house of a rising sun.
     assertEquals("sun. rising a of house A", ob.reverseWords("A house of a rising sun."));
   }
-//Todo write other tests from Baeldung, e.g. for null case
 }
